@@ -1,2 +1,4 @@
 .vscode/
 telegramBot/telegram/configs.py
+secret.py
+db.sqlite3
